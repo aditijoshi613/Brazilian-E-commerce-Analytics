@@ -1,5 +1,5 @@
 # INST-754-Data-Integration-and-Preparation-for-Analytics
-## Final Project
+## Project Proposal
 
 ### Team Members
 
