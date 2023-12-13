@@ -1,8 +1,7 @@
 # INST-754-Data-Integration-and-Preparation-for-Analytics
 ## Final Project
-## Project Proposal
 
-Team Members
+### Team Members
 
 Aditi Ganesh Joshi
 
@@ -10,22 +9,22 @@ Surbhi Garg
 
 Ashish Murlidhar Pagote
 
-Business Challenge
+### Business Challenge
 
 During the course of this project, we plan to use and integrate the data from an e-commerce firm in Brazil called “Olist”. Olist provides a marketplace for various SMBs to sell their products online. The aim of this project is divided into two parts as follows:
 
-Consumers Analysis
+### Consumers Analysis
 
 1. Perform exploratory data analysis on order data to identify the most frequently bought products, product segments, etc.
 2. Conduct Market Basket Analysis and Customer Segmentation on the e-commerce data to understand consumer behavior.
 3. Analyze trends and forecast future sales
 
-Sellers Analysis
+### Sellers Analysis
 
 1. To study the effectiveness of the marketing funnel at Olist, an e-commerce firm in Brazil, in terms of various metrics based on the conversion of qualified leads, revenue, and various attributes associated with them.
 2. Understand the logistics and address inefficiencies
 
-Source Datasets
+### Source Datasets
 
 There are a couple of data sources freely available on Kaggle that will help us address various business challenges relevant to the e-commerce firm. Finance, Marketing, Logistics, Customer Insights, and Product Operations are some of the key domains where this data can be utilized to improve efficiency, engagement, and revenue.  
 
