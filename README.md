@@ -1,5 +1,7 @@
-# INST-754-Data-Integration-and-Preparation-for-Analytics
-## Project Proposal
+# Brazilian E-commerce Analytics
+
+## Final Project - INST 754 Data Integration and Preparation for Analytics
+### Project Proposal
 
 ### Team Members
 
